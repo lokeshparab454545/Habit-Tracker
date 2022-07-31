@@ -1,16 +1,16 @@
-# habbit
+# Habit Tracker App
 
-A new Flutter project.
+## The Habit Tracker: What It Is and How It Works
 
-## Getting Started
+Every day, our lives are governed by habits. These habits consist of little routines as well as small ways you do things.
 
-This project is a starting point for a Flutter application.
+It logs your behavior, and the act of tracking a behaviour can spark the urge to change it.
 
-A few resources to get you started if this is your first Flutter project:
+The Progress Indicator indicates the time, which will keep you motivated by seeing the progress you are making.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+It feels satisfying to record your success in the moment.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+
+
+![Untitled design](https://user-images.githubusercontent.com/98585144/182012551-4bb232a8-8878-44b5-9b71-084c34a9fb1b.png)
